@@ -1,0 +1,67 @@
+{
+    "foodItems": [
+      {
+        "id": 1,
+        "name": "Andhra Style Chicken Curry",
+        
+        "description": "Koddu karam lo munchi theesina Chicken",
+        "price": "330"
+      },
+      {
+        "id": 2,
+        "name": "Mangamma Mutton Curry",
+        
+        "description": "Chaala tasty ga untadhi",
+        "price": "280"
+      },
+      {
+        "id": 3,
+        "name": "Maguluri's Mettalu fry",
+        
+        "description": "Vellu naakesthav , idhi pakka",
+        "price": "365"
+      },
+      {
+        "id": 4,
+        "name": "Ratthaalu Rice Bowl",
+        
+        "description": "Uncle's special. Best side dish",
+        "price": "565"
+      },
+      {
+        "id": 5,
+        "name": "Navaneeth Naatukodi curry",
+        
+        "description": "Vedi raagi sangati loki best",
+        "price": "350"
+      },
+      {
+        "id": 6,
+        "name": "Chicken 555 ",
+        
+        "description": "Everyone's favourite",
+        "price": "235"
+      },
+      {
+        "id": 7,
+        "name": "Kadai chicken",
+        
+        "description": "Roti ayina , Rice ayina ni ishtam ",
+        "price": "230"
+      },
+      {
+        "id": 8,
+        "name": "Rabbit fry piece Biryani",
+        
+        "description": "Leg soup free andi",
+        "price": "750"
+      },
+      {
+        "id": 9,
+        "name": "Curd Rice",
+        
+        "description": "Mi lo una vedini thagisthadhi",
+        "price": "100"
+      }
+    ]
+}
